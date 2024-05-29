@@ -24,7 +24,7 @@
 **`ABDUG'ANI LAPASOV`**
 
 I am Python developer with 4 months + experience. My skills include database management, API design and integration,
-and a solid understanding of ORM (Object-Relational Mapping) principles. I also have 2 experience in creating
+and a solid understanding of ORM (Object-Relational Mapping) principles. I also have 2 months experience in creating
 Telegram Bot working with Aiogram3 and 2 months experience in DRF and Fast Api.
 <p>
    <a href="https://github.com/Lapasov05?tab=repositories&sort=stargazers">
