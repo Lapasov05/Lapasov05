@@ -97,7 +97,7 @@ Telegram Bot working with Aiogram3 and 2 months experience in DRF and Fast Api.
   <a href="mailto:abdugani.lapasov2005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/bdug-ani-lapasov-502809292/" target="_blank">
+  <a href="https://www.linkedin.com/in/abdug-ani-lapasov-502809292/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://t.me/Lapasov_0408" target="_blank">
