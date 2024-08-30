@@ -22,9 +22,7 @@ Telegram Bot working with Aiogram3 and 2 months experience in DRF and Fast Api.
 
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lapasov05&show_icons=true&locale=en&layout=compact&theme=dark" alt="yoyo930021" />
-</p>
+
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Lapasov05&show_icons=true&locale=en&theme=dark" alt="yoyo930021" />
