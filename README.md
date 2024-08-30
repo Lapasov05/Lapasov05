@@ -7,6 +7,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&width=435&lines=%7B+name%3A+%22Abdug'ani+Lapasov%22%2C+age%3A+19%27%5D+%7D;" alt="Typing SVG" /></a> <br />
 
 
+
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lapasov05&show_icons=true&locale=en&layout=compact&theme=dark" alt="yoyo930021" />
 </p>
@@ -16,9 +18,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lapasov05&theme=dark" alt="yoyo930021" />
 </p>
 
-<p align ="left";>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Lapasov05&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
-</p>
 
 
 
