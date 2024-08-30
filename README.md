@@ -1,6 +1,7 @@
 # About_ME
 
 <h1 align='center'> Assalamu alaykum 👋🏼</h1>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Lapasov05" alt="warriorssami" /></a> </p>
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&width=435&lines=%7B+name%3A+%22Abdug'ani+Lapasov%22%2C+age%3A+19%27%5D+%7D;" alt="Typing SVG" /></a> <br />
@@ -30,7 +31,6 @@ Telegram Bot working with Aiogram3 and 2 months experience in DRF and Fast Api.
    <a href="https://github.com/Lapasov05?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Lapasov05?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Lapasov05" alt="warriorssami" /></a> </p>
 
 
 
