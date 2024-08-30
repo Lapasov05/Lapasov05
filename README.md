@@ -17,6 +17,7 @@
 
 
 
+<img align="right" alt="Coding" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/programming.gif">
 
 
 **`ABDUG'ANI LAPASOV`**
@@ -28,7 +29,6 @@ Telegram Bot working with Aiogram3 and 2 months experience in DRF and Fast Api.
    <a href="https://github.com/Lapasov05?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Lapasov05?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
-<img align="right" alt="Coding" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/programming.gif">
 
 
 
