@@ -13,10 +13,10 @@
 </p>
 
 <div style="width: 100%; display: flex; justify-content: space-between;">
-    <p style="margin: 0; text-align: left;">
+    <p align ="left">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=Lapasov05&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
     </p>
-    <p style="margin: 0; text-align: right;">
+    <p align ="right">
         <img src="https://github-readme-stats.vercel.app/api?username=Lapasov05&show_icons=true&theme=synthwave" alt="GitHub Stats">
     </p>
 </div>
