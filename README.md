@@ -7,10 +7,13 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&width=435&lines=%7B+name%3A+%22Abdug'ani+Lapasov%22%2C+age%3A+19%27%5D+%7D;" alt="Typing SVG" /></a> <br />
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Lapasov05" alt="warriorssami" /></a> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lapasov05&show_icons=true&locale=en&layout=compact&theme=dark" alt="yoyo930021" />
+</p>
 
-<p align="right";>
-  <img src="https://github-readme-stats.vercel.app/api?username=Lapasov05&show_icons=true&theme=synthwave" alt="GitHub Stats">
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Lapasov05&show_icons=true&locale=en&theme=dark" alt="yoyo930021" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lapasov05&theme=dark" alt="yoyo930021" />
 </p>
 
 <p align ="left";>
