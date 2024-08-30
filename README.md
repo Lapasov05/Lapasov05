@@ -2,6 +2,8 @@
 
 <h1 align='center'> Assalamu alaykum 👋🏼</h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Lapasov05&label=Profile%20views&color=0e75b6&style=flat" alt="lapasov" /> </p>
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&width=435&lines=%7B+name%3A+%22Abdug'ani+Lapasov%22%2C+age%3A+19%27%5D+%7D;" alt="Typing SVG" /></a> <br />
 
 <p align='center'>
