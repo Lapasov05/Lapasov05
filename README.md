@@ -7,22 +7,6 @@
 
 
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lapasov05&show_icons=true&locale=en&layout=compact&theme=dark" alt="yoyo930021" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Lapasov05&show_icons=true&locale=en&theme=dark" alt="yoyo930021" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lapasov05&theme=dark" alt="yoyo930021" />
-</p>
-
-
-
-
-
-
-
 <img align="right" alt="Coding" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/programming.gif">
 
 
@@ -90,6 +74,17 @@ Telegram Bot working with Aiogram3 and 2 months experience in DRF and Fast Api.
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lapasov05&show_icons=true&locale=en&layout=compact&theme=dark" alt="yoyo930021" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Lapasov05&show_icons=true&locale=en&theme=dark" alt="yoyo930021" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lapasov05&theme=dark" alt="yoyo930021" />
+</p>
 
 
 
