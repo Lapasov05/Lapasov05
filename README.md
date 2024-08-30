@@ -1,10 +1,12 @@
 # About_ME
 
 <h1 align='center'> Assalamu alaykum 👋🏼</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Lapasov05" alt="warriorssami" /></a> </p>
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&width=435&lines=%7B+name%3A+%22Abdug'ani+Lapasov%22%2C+age%3A+19%27%5D+%7D;" alt="Typing SVG" /></a> <br />
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Lapasov05" alt="warriorssami" /></a> </p>
 
 <p align="right";>
   <img src="https://github-readme-stats.vercel.app/api?username=Lapasov05&show_icons=true&theme=synthwave" alt="GitHub Stats">
@@ -32,6 +34,7 @@ Telegram Bot working with Aiogram3 and 2 months experience in DRF and Fast Api.
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Lapasov05?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Lapasov05&label=Profile%20views&color=0e75b6&style=flat" alt="warriorssami" /> </p>
 
 
 
