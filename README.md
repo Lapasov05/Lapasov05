@@ -4,6 +4,8 @@
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&width=435&lines=%7B+name%3A+%22Abdug'ani+Lapasov%22%2C+age%3A+19%27%5D+%7D;" alt="Typing SVG" /></a> <br />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nazarbekdev&show_icons=true&locale=en&layout=compact" alt="nazarbekdev" /></p>
+
 <p align="right";>
   <img src="https://github-readme-stats.vercel.app/api?username=Lapasov05&show_icons=true&theme=synthwave" alt="GitHub Stats">
 </p>
