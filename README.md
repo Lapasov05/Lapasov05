@@ -11,9 +11,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Lapasov05&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
 </p>
 
-<!-- Clear floats to prevent layout issues -->
-<div style="clear: both;"></div>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 
