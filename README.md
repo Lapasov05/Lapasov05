@@ -4,7 +4,6 @@
 <h1 align='center'> Assalamu alaykum 👋🏼</h1>
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&width=435&lines=%7B+name%3A+%22Abdug'ani+Lapasov%22%2C+age%3A+19%27%5D+%7D;" alt="Typing SVG" /></a> <br />
 
 
 
@@ -27,7 +26,7 @@
 <img align="right" alt="Coding" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/programming.gif">
 
 
-**`ABDUG'ANI LAPASOV`**
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&width=435&lines=%7B+name%3A+%22Abdug'ani+Lapasov%22%2C+age%3A+19%27%5D+%7D;" alt="Typing SVG" /></a> <br />
 
 I am Python developer with 4 months + experience. My skills include database management, API design and integration,
 and a solid understanding of ORM (Object-Relational Mapping) principles. I also have 2 months experience in creating
