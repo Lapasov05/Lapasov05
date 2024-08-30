@@ -3,7 +3,7 @@
 <h1 align='center'> Assalamu alaykum 👋🏼</h1>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&width=435&lines=%7B+name%3A+%22Abdug'ani+Lapasov%22%2C+age%3A+19%27%5D+%7D;" alt="Typing SVG" /></a> <br />
-<div disply:'flex'>
+<div disply:'flex'; width: '100%' flex-direction: 'row'>
   <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Lapasov05&show_icons=true&theme=synthwave"></img>
 </p>
