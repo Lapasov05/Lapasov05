@@ -30,7 +30,7 @@ Telegram Bot working with Aiogram3 and 2 months experience in DRF and Fast Api.
    <a href="https://github.com/Lapasov05?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Lapasov05?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
-<img src="https://github.com/Lapasov05/Lapasov/blob/master/img.jpg" />-->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Lapasov05" alt="warriorssami" /></a> </p>
 
 
 
