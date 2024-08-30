@@ -1,4 +1,5 @@
 # About_ME
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Lapasov05&label=Profile%20views&color=0e75b6&style=flat" alt="warriorssami" /> </p>
 
 <h1 align='center'> Assalamu alaykum 👋🏼</h1>
 
@@ -34,7 +35,6 @@ Telegram Bot working with Aiogram3 and 2 months experience in DRF and Fast Api.
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Lapasov05?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Lapasov05&label=Profile%20views&color=0e75b6&style=flat" alt="warriorssami" /> </p>
 
 
 
