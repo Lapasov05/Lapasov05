@@ -12,9 +12,8 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&width=435&lines=%7B+name%3A+%22Abdug'ani+Lapasov%22%2C+age%3A+?%27%5D+%7D;" alt="Typing SVG" /></a> <br />
 
-I am Python developer with 4 months + experience. My skills include database management, API design and integration,
-and a solid understanding of ORM (Object-Relational Mapping) principles. I also have 2 months experience in creating
-Telegram Bot working with Aiogram3 and 2 months experience in DRF and Fast Api.
+
+I am a Python backend developer with over a year of experience, specializing in database management, API design, and seamless integration. I have a strong command of ORM principles and have built scalable applications using Django Rest Framework (DRF) and FastAPI. Additionally, I have hands-on experience developing advanced Telegram bots with Aiogram3, optimizing performance, and implementing secure authentication systems.
 <p>
    <a href="https://github.com/Lapasov05?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Lapasov05?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
