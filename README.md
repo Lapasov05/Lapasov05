@@ -5,7 +5,7 @@
 </p>
 
 </p>
-<p align='center'>
+<p>
 <a href="https://wakatime.com/@018ccf80-fb31-4b69-803c-e656c3b5d627"><img src="https://wakatime.com/badge/user/018ccf80-fb31-4b69-803c-e656c3b5d627.svg" alt="Total time coded since Jan 3 2024" /></a>
 </p>
 
