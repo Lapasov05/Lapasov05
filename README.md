@@ -23,10 +23,8 @@ I am a Python backend developer with over a year of experience, specializing in 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Lapasov05)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Lapasov05&show_icons=true&locale=en&theme=dark" alt="yoyo930021" />
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lapasov05&theme=dark" alt="yoyo930021" /> -->
-</p>
+
 
 <div align=center>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lapasov05&theme=github_dark" alt="info">
