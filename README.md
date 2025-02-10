@@ -4,8 +4,8 @@
   <img src="https://komarev.com/ghpvc/?username=Lapasov05&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<p >
-<a href="https://wakatime.com/@018ccf80-fb31-4b69-803c-e656c3b5d627"><img class="all-time-badge tip" title data-original-title="Total time coded since Jan 3 2024" src="/badge/user/018ccf80-fb31-4b69-803c-e656c3b5d627.svg"></a>
+<p align='center'>
+<a href="https://wakatime.com/@018d983b-358b-4e91-8ec8-6ec9735a5f1e"><img src="https://wakatime.com/badge/user/018d983b-358b-4e91-8ec8-6ec9735a5f1e.svg" alt="Total time coded since Feb 11 2024" /></a>
 </p>
 
 <h1 align='center'>Assalamu alaykum 👋🏼</h1>
