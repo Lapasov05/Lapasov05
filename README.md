@@ -28,6 +28,9 @@ I am a Python backend developer with over a year of experience, specializing in 
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lapasov05&theme=dark" alt="yoyo930021" /> -->
 </p>
 
+<div align=center>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lapasov05&theme=github_dark" alt="info">
+</div>
 
 ## Stack I'm working with 💼
 
