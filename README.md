@@ -20,11 +20,12 @@ I am a Python backend developer with over a year of experience, specializing in 
    </p>
 
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Lapasov05)](https://github.com/ryo-ma/github-profile-trophy)
-
-<img src="https://github-readme-stats.vercel.app/api?username=Lapasov05&show_icons=true&locale=en&theme=dark" alt="yoyo930021" />
-
+<div style="display: flex; align-items: center;">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=Lapasov05" alt="trophy" />
+    </a>
+    <img src="https://github-readme-stats.vercel.app/api?username=Lapasov05&show_icons=true&locale=en&theme=dark" alt="stats" />
+</div>
 
 <div align=center>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lapasov05&theme=github_dark" alt="info">
