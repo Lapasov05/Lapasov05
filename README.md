@@ -1,6 +1,8 @@
 # About_ME
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Lapasov05&label=Profile%20views&color=0e75b6&style=flat" alt="warriorssami" /> </p>
-
+<p align='center'>
+<a href="https://wakatime.com/@defender"><img src="https://wakatime.com/badge/user/defender.svg" alt="Total time coded since Feb 11 2024" /></a>
+</p>
 <h1 align='center'> Assalamu alaykum 👋🏼</h1>
 
 
