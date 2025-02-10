@@ -6,7 +6,7 @@
 
 <p>
   <a href="https://wakatime.com/@defender">
-    <img src="https://wakatime.com/badge/user/defender.svg" alt="Total time coded since Feb 11 2024" />
+    <img src="https://wakatime.com/badge/user/5496a14e-3068-4df0-95eb-92dc82465aa7.svg" alt="Total time coded since Feb 11 2024" />
   </a>
 </p>
 
