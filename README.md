@@ -5,7 +5,7 @@
 </p>
 
 <p >
-<a href="https://wakatime.com/@018ccf80-fb31-4b69-803c-e656c3b5d627"><img src="/badge/user/018ccf80-fb31-4b69-803c-e656c3b5d627.svg" alt="Total time coded since Feb 11 2024" /></a>
+<a href="https://wakatime.com/@018ccf80-fb31-4b69-803c-e656c3b5d627"><img class="all-time-badge tip" title data-original-title="Total time coded since Jan 3 2024" src="/badge/user/018ccf80-fb31-4b69-803c-e656c3b5d627.svg"></a>
 </p>
 
 <h1 align='center'>Assalamu alaykum 👋🏼</h1>
